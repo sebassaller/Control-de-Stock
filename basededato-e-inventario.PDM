@@ -1,0 +1,236 @@
+[Root]
+Most Recent Package=Paquete de instalación estándar 1
+
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Users\sebas\Desktop\base de datos e inventario\Paquete\Nueva carpeta\paquetes
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 1|Files Found]
+
+[Package|Paquete de instalación estándar 1|Files Released]
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=
+C:\Users\sebas\Desktop\visual basci iconos y wallpapers\ocx-chamaleon-button\ChamaleonButton.ocx=
+C:\Users\sebas\Desktop\visual basci iconos y wallpapers\ocx-LVbuttons\LVbuttons.ocx=
+C:\Users\sebas\Desktop\visual basci iconos y wallpapers\ocx-skin\Ejemplo de Skin Gran Utilidad\actskin4.ocx=
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+C:\Windows\System32\MSCAL.OCX=
+
+[Package|Paquete de instalación estándar 1|Files Added]
+c:\users\sebas\desktop\base de datos e inventario\basededato-e-inventario.vbp=
+c:\users\sebas\desktop\base de datos e inventario\basededato-e-inventario.vbw=
+c:\users\sebas\desktop\base de datos e inventario\database2.mdb=
+c:\users\sebas\desktop\base de datos e inventario\form1.frm=
+c:\users\sebas\desktop\base de datos e inventario\form1.frx=
+c:\users\sebas\desktop\base de datos e inventario\form2.frm=
+c:\users\sebas\desktop\base de datos e inventario\form2.frx=
+c:\users\sebas\desktop\base de datos e inventario\form3.frm=
+c:\users\sebas\desktop\base de datos e inventario\form3.frx=
+c:\users\sebas\desktop\base de datos e inventario\g520up.jpg=
+c:\users\sebas\desktop\base de datos e inventario\module1.bas=
+c:\users\sebas\desktop\base de datos e inventario\vb-function-and-procedure-1-638.jpg=
+c:\users\sebas\desktop\base de datos e inventario\vbwall.jpg=
+c:\users\sebas\desktop\base de datos e inventario\basededato-e-inventario.pdm=
+c:\users\sebas\desktop\base de datos e inventario\basededato-e-inventario.txt=
+c:\users\sebas\desktop\base de datos e inventario\form4.frm=
+c:\users\sebas\desktop\base de datos e inventario\form4.frx=
+c:\users\sebas\desktop\base de datos e inventario\form5.frm=
+c:\users\sebas\desktop\base de datos e inventario\form5.frx=
+c:\users\sebas\desktop\base de datos e inventario\g520upicon.jpg=
+c:\users\sebas\desktop\base de datos e inventario\vbwallicon.jpg=
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+C:\Users\sebas\Desktop\base de datos e inventario\basededato-e-inventario-A.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6ES.DLL=Yes
+C:\Program Files\Common Files\microsoft shared\DAO\dao360.dll=Yes
+C:\Windows\System32\msjet40.dll=Yes
+C:\Windows\System32\msjter40.dll=Yes
+C:\Windows\System32\msjint40.dll=Yes
+C:\Windows\System32\vbajet32.dll=Yes
+C:\Windows\System32\expsrv.dll=Yes
+C:\Windows\System32\mswstr10.dll=Yes
+C:\Windows\System32\mswdat10.dll=Yes
+C:\Windows\System32\msrd2x40.dll=Yes
+C:\Windows\System32\msrd3x40.dll=Yes
+C:\Windows\System32\msrepl40.dll=Yes
+C:\Windows\System32\msjtes40.dll=Yes
+C:\Windows\System32\VB5DB.DLL=Yes
+C:\Windows\System32\MSDATGRD.OCX=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Windows\System32\STDFTES.DLL=Yes
+C:\Windows\System32\DATGDES.DLL=Yes
+C:\Users\sebas\Desktop\visual basci iconos y wallpapers\ocx-LVbuttons\LVbuttons.ocx=Yes
+C:\Users\sebas\Desktop\visual basci iconos y wallpapers\ocx-chamaleon-button\ChamaleonButton.ocx=Yes
+C:\Windows\System32\MSADODC.OCX=Yes
+C:\Windows\System32\ADODCES.DLL=Yes
+C:\Windows\System32\MSBIND.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=Yes
+C:\Windows\System32\MSFLXGRD.OCX=Yes
+C:\Windows\System32\FLXGDES.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\basededato-e-inventario.vbp=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\basededato-e-inventario.vbw=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Database2.mdb=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form1.frm=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form1.frx=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form2.frm=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form2.frx=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form3.frm=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form3.frx=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\g520up.jpg=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Module1.bas=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\vb-function-and-procedure-1-638.jpg=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\vbWall.jpg=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\basededato-e-inventario.PDM=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\basededato-e-inventario.TXT=Yes
+C:\Windows\System32\MSCAL.OCX=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form4.frm=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form4.frx=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form5.frm=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form5.frx=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\g520upicon.jpg=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\vbWallicon.jpg=Yes
+C:\Users\sebas\Desktop\visual basci iconos y wallpapers\ocx-skin\Ejemplo de Skin Gran Utilidad\actskin4.ocx=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+C:\Users\sebas\Desktop\base de datos e inventario\basededato-e-inventario-A.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6ES.DLL=$(WinSysPath)
+C:\Program Files\Common Files\microsoft shared\DAO\dao360.dll=$(MSDAOPath)
+C:\Windows\System32\msjet40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msjter40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msjint40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\vbajet32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\expsrv.dll=$(WinSysPathSysFile)
+C:\Windows\System32\mswstr10.dll=$(WinSysPathSysFile)
+C:\Windows\System32\mswdat10.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msrepl40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msjtes40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\VB5DB.DLL=$(WinSysPath)
+C:\Windows\System32\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\STDFTES.DLL=$(WinSysPath)
+C:\Windows\System32\DATGDES.DLL=$(WinSysPath)
+C:\Users\sebas\Desktop\visual basci iconos y wallpapers\ocx-LVbuttons\LVbuttons.ocx=$(WinSysPath)
+C:\Users\sebas\Desktop\visual basci iconos y wallpapers\ocx-chamaleon-button\ChamaleonButton.ocx=$(WinSysPath)
+C:\Windows\System32\MSADODC.OCX=$(WinSysPath)
+C:\Windows\System32\ADODCES.DLL=$(WinSysPath)
+C:\Windows\System32\MSBIND.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=$(WinSysPath)
+C:\Windows\System32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\System32\FLXGDES.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Users\sebas\Desktop\base de datos e inventario\basededato-e-inventario.vbp=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\basededato-e-inventario.vbw=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\Database2.mdb=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\Form1.frm=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\Form1.frx=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\Form2.frm=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\Form2.frx=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\Form3.frm=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\Form3.frx=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\g520up.jpg=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\Module1.bas=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\vb-function-and-procedure-1-638.jpg=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\vbWall.jpg=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\basededato-e-inventario.PDM=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\basededato-e-inventario.TXT=$(AppPath)
+C:\Windows\System32\MSCAL.OCX=$(WinSysPath)
+C:\Users\sebas\Desktop\base de datos e inventario\Form4.frm=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\Form4.frx=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\Form5.frm=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\Form5.frx=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\g520upicon.jpg=$(AppPath)
+C:\Users\sebas\Desktop\base de datos e inventario\vbWallicon.jpg=$(AppPath)
+C:\Users\sebas\Desktop\visual basci iconos y wallpapers\ocx-skin\Ejemplo de Skin Gran Utilidad\actskin4.ocx=$(WinSysPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\basededato-e-inventario-A.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\basededato-e-inventario.vbp=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\basededato-e-inventario.vbw=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Database2.mdb=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form1.frm=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form1.frx=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form2.frm=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form2.frx=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form3.frm=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form3.frx=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\g520up.jpg=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Module1.bas=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\vb-function-and-procedure-1-638.jpg=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\vbWall.jpg=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\basededato-e-inventario.PDM=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\basededato-e-inventario.TXT=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form4.frm=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form4.frx=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form5.frm=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\Form5.frx=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\g520upicon.jpg=Yes
+C:\Users\sebas\Desktop\base de datos e inventario\vbWallicon.jpg=Yes
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=single
+Size=
+Title=Proyecto1
+
+[Package|Paquete de instalación estándar 1|Package]
+PackageFolder=C:\Users\sebas\Desktop\base de datos e inventario\Paquete\Nueva carpeta\paquetes
+ProjectFolder=C:\Users\sebas\Desktop\base de datos e inventario
+ServerSideCab=
+File1=C:\Users\sebas\Desktop\base de datos e inventario\Paquete\Nueva carpeta\paquetes\setup.exe
+File2=C:\Users\sebas\Desktop\base de datos e inventario\Paquete\Nueva carpeta\paquetes\Setup.Lst
+File3=C:\Users\sebas\Desktop\base de datos e inventario\Paquete\Nueva carpeta\paquetes\basededato-e-inventario-A.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Paquete de instalación estándar 1|IconGroups]
+Group0=Proyecto1
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 1|Proyecto1]
+Icon1=basededato-e-inventario-A.exe
+Title1=Proyecto1
+StartIn1=$(AppPath)
+Key1=Icon1
